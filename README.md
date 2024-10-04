@@ -1,6 +1,7 @@
 # 最新公告
 
-由于部分因素，CmzPrep与2023年7月12日以后将在Github上停止更新的源码上传和版本更新，请前往123网盘下载最新版本:https://www.123pan.com/s/3xw9-Ovnxh(CmzPrep Rev.1)
+由于部分因素，CmzPrep与2023年7月12日以后将在Github上停止更新的源码上传和版本更新，请前往123网盘下载最新版本:https://www.123pan.com/s/3xw9-Ovnxh
+(CmzPrep Rev.1)
 
 # 关于CmzPrep
 CmzPrep是一个系统重装工具，由bilibili 爱废电脑的cmd君 & 桌面窗口管理器_DWM & allMagic 制作，集成了系统下载、重装和驱动导出等功能，适合小白和新手在电脑卡顿时使用
