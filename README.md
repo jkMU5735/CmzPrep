@@ -1,12 +1,13 @@
 # 最新公告
-
-由于部分因素，CmzPrep与2023年7月12日以后将在Github上停止更新的源码上传和版本更新，请前往123网盘下载最新版本:https://www.123pan.com/s/3xw9-Ovnxh
-(CmzPrep Rev.1)
+此仓库已过时，CmzPrep最新版本为CmzPrep Rev.2，详情请见：https://cmzprep.com
+由于部分因素，CmzPrep与2023年7月12日以后将在Github上停止更新的源码上传和版本更新，请前往网盘下载最新版本:https://wwbql.lanzoul.com/b00v05iawd 提取码：8c3m(CmzPrep Rev.2)
+   https://www.123pan.com/s/3xw9-Ovnxh(CmzPrep Rev.1)
+   
 
 # 关于CmzPrep
 CmzPrep是一个系统重装工具，由bilibili 爱废电脑的cmd君 & 桌面窗口管理器_DWM & allMagic 制作，集成了系统下载、重装和驱动导出等功能，适合小白和新手在电脑卡顿时使用
 
-(爱废电脑的cmd君)FoskfD的主页：https://space.bilibili.com/1529340681
+(爱废电脑的cmd君)FoskfD的主页：https://space.bilibili.com/1211966604
 
 桌面窗口管理器_DWM(现已改名)的主页:https://space.bilibili.com/414666753
 
@@ -28,8 +29,8 @@ allMagic的主页:https://space.bilibili.com/1313115889
 2.程序总会被某些下载源盗用并修改，用了比较严格的开源协议开源协议，这样别的程序要修改也得开源
 
 # 下载
-由于考虑到国内的网络环境比较特殊，所以提供了123网盘实时更新下载链接
-https://www.123pan.com/s/3xw9-Ovnxh
+由于考虑到国内的网络环境比较特殊，所以提供了网盘实时更新下载链接
+https://wwbql.lanzoul.com/b00v05iawd 提取码：8c3m(CmzPrep Rev.2)
 
 # CmzPrep C V3 更新内容（和CmzPrep B相比）
 01:PE修改为Windows10内核（主要是Win11PE太容易黑屏了啊啊啊）
@@ -67,4 +68,9 @@ https://www.123pan.com/s/3xw9-Ovnxh
 
 04.部分问题修复
 
-# CmzPrep Rev.2 （正在制作）
+# CmzPrep Rev.2 （2026.7）
+01:使用新的编程语言C++来编写程序
+
+02:软件界面更新
+
+03.部分问题修复
